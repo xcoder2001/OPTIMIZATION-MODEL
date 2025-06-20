@@ -1,16 +1,16 @@
 # OPTIMIZATION-MODEL
 
-"COMPANY":CODETECH IT SOLUTIONS
+"COMPANY": CODETECH IT SOLUTIONS
 
-"NAME":G NAVEEN
+"NAME": G NAVEEN
 
-"INTERN ID":CT04DF448
+"INTERN ID": CT04DF448
 
-"DOMAIN":DATA SCIENCE
+"DOMAIN": DATA SCIENCE
 
 "DURATION": 4 WEEKS
 
-"MENTOR":NEELA SANTOSH
+"MENTOR": NEELA SANTOSH
 
 Problem Description:
 
@@ -76,5 +76,7 @@ Similarly, if costs, profits, or requirements change, they can simply update the
 
 Conclusion
 This problem showcases how Linear Programming can be a powerful tool in solving real-world business problems. By accurately modeling resource constraints and profit contributions, businesses can make data-driven decisions that improve their operational efficiency and bottom line.
+
+![Image](https://github.com/user-attachments/assets/61b45770-1553-4f25-946f-9bece89834f6)
 
 
