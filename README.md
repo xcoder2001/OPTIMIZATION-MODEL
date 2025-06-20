@@ -62,19 +62,19 @@ This means the most profitable production plan is to manufacture 30 tables and 4
 Insights and Analysis
 Let’s explore what these results imply:
 
-Efficient Resource Utilization
+Efficient Resource Utilization::
 All available 240 units of wood and 100 hours of labor are used.
 There is no leftover material or under-utilized labor.
 
-Profit Maximization
+Profit Maximization:
 If the company follows this plan, it will achieve the maximum possible profit of ₹4100 for the current resource levels.
 Any deviation (producing more of one product and less of another) would result in lower profit.
 
-Scalable Model
+Scalable Model:
 If the company gets more resources (e.g., buys more wood or hires more labor), the same model can be re-run with new values.
 Similarly, if costs, profits, or requirements change, they can simply update the input parameters.
 
-Conclusion
+Conclusion:
 This problem showcases how Linear Programming can be a powerful tool in solving real-world business problems. By accurately modeling resource constraints and profit contributions, businesses can make data-driven decisions that improve their operational efficiency and bottom line.
 
 ![Image](https://github.com/user-attachments/assets/61b45770-1553-4f25-946f-9bece89834f6)
